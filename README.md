@@ -4,7 +4,7 @@ A universal machine base and consumables free water management system to support
 [**Join the Discord!!**](https://discord.gg/fNJQsGFzm4)
 #
 
-![Shitty Render](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_render_cover.png)
+![Shitty Render](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_render_cover.PNG)
 
 ![Diagram](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_diagram.PNG)
 
