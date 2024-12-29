@@ -31,7 +31,7 @@ The current scope of the project:
 
 **Centrifuges are Dangerous**
 
-The centrifuge bowl is highly robust and its inside a keg which is also highly robust. Nonetheless, it is your responsibiltiy to take the necessary procautions when working with a high inertia flywheel. The kinetic energy of this centrifuge is about 2.8 kJ which is on par with a rifle cartridge. 
+The centrifuge bowl is highly robust and its inside a keg which is also highly robust. Nonetheless, it is your responsibiltiy to take the necessary precautions when working with a high inertia flywheel. The kinetic energy of this centrifuge is about 2.8 kJ which is on par with a rifle cartridge. 
 
 **Metric / Imperial**
 
