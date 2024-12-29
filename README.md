@@ -4,13 +4,11 @@ A universal machine base and consumables free water management system to support
 [**Join the Discord!!**](https://discord.gg/fNJQsGFzm4)
 #
 
-![Shitty Render](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_render_mid.png)
+![Shitty Render](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_render_cover.png)
 
 ![Diagram](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_diagram.PNG)
 
-![Section1](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_section_front_wkeg.PNG)
-
-![Section2](https://github.com/alextreseder/KegStand/blob/master/images/kegstand_section_side_wkeg.PNG)
+![Section1](https://github.com/alextreseder/KegStand/blob/master/images/bowl_centrifuge_diagram.PNG)
 
 ## Concept
 The current scope of the project: 
