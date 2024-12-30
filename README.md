@@ -12,10 +12,9 @@ A universal machine base and consumables free water management system to support
 
 ## Concept
 The current scope of the project: 
-* An consumables free integrated water management system for EDM
-* Use as many off the shelf components as possible
-* Use laser cut parts where needed
-* All stainless parts contacting water (or plastic) (excluding the bowl)
+* A consumables free water management system for EDM
+* Relys heavily on laser cut parts
+* All materials in contact with water are inert
 * Use a half barrel beer keg as the sump and centrifuge enclosure
 * Use electrodeionzation for long service life
 * Use a peltier chiller for temperture stabilization
@@ -30,11 +29,11 @@ The current scope of the project:
 
 **Centrifuges are Dangerous**
 
-The centrifuge bowl is highly robust and its inside a keg which is also highly robust. Nonetheless, it is your responsibiltiy to take the necessary precautions when working with a high inertia flywheel. The kinetic energy of this centrifuge is about 2.8 kJ which is on par with a rifle cartridge. 
+The centrifuge is highly robust and its inside a keg which makes for a super tough enclosure. Nonetheless, the kinetic energy of this centrifuge is about 2.8 kJ which is on par with a rifle cartridge. Take appropriate precautions.
 
 **Metric / Imperial**
 
-The design is done in metric however all the fabricated components plus the beer keg itself are imperial out of necessity. 
+Both, because I felt like it.
 
 ## Currently In Progress
 * Shop around to find an affordable configuration for the valves and plumbing
@@ -50,10 +49,12 @@ Future Development:
 * KegStand is designed assuming the user has access to machine shop and fabrication tools
 
 ## Alternative Applications
-* This is suitable for making bio fuel
+* bio fuel
+* orange juice
+* beer
 
 ## Calculations
-Desmos calculators have been made for various applications - they are not necessarily complete
+Desmos calculators have been made for various applications - they are not necessarily complete or verified
 
 [DESMOS - CENTRIFUGE CALCULATOR](https://www.desmos.com/calculator/mu1ctin6io)
 
