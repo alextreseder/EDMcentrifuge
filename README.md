@@ -29,7 +29,7 @@ The current scope of the project:
 
 **Centrifuges are Dangerous**
 
-The centrifuge is highly robust and its inside a keg which makes for a super tough enclosure. Nonetheless, the kinetic energy of this centrifuge is about 2.8 kJ which is on par with a rifle cartridge. Take appropriate precautions.
+The centrifuge is highly robust and it's inside a keg which makes for a super tough enclosure. Nonetheless, the kinetic energy of this centrifuge is about 2.8 kJ which is on par with a rifle cartridge. Take appropriate precautions.
 
 **Metric / Imperial**
 
